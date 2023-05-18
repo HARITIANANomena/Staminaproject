@@ -1,0 +1,11 @@
+li {
+    list-style: none;
+}
+
+.tt {
+    text-decoration: none;
+    color: #fff;
+    font-size: 1.1em;
+    display: inline-block;
+    margin: 0 20px;
+}

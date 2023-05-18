@@ -1,0 +1,29 @@
+.form_login {
+    width: 400px;
+}
+
+.ctn_password_count {
+    margin-top: 1.2em;
+    display: flex;
+    margin-left: 19%;
+}
+
+.forget_pass, .create_count {
+    text-decoration: underline;
+}
+
+.forget_pass, .create_count:hover {
+    cursor: pointer;
+}
+
+.clspecial_btn {
+    margin-left: 36%;
+}
+
+.separator {
+    width: 60px;
+    height: 2px;
+    background: #000;
+    margin-bottom: 23px;
+    margin-left: 43%;
+}
